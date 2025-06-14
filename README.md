@@ -1,1 +1,1 @@
-# Dashboard
+This full-featured dashboard application is developed with the MERN stack (MongoDB, Express.js, React, and Node.js), delivering a flexible platform for handling data visualization, client engagement, and administrative operations. It supports both light and dark themes to enhance user experience and is fully responsive, ensuring smooth performance across all screen sizes and devices
